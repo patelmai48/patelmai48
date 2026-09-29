@@ -41,7 +41,7 @@ I'm Mahi Patel, an Integrated M.Sc. IT student at JG University, Ahmedabad, Guja
 
 ## 💼 Experience
 
-### Frontend Intern — Venture Launcher
+### Frontend Developer Intern — Venture Launcher
 
 **2026 – Present | Remote**
 
