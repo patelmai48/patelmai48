@@ -240,18 +240,6 @@ June 2024 – August 2029
 
 ---
 
-## 📜 Certifications
-
-- Advanced Software Engineering Job Simulation — Walmart USA, Forage (July 2026)
-- Cybersecurity Job Simulation — Deloitte Australia, Forage (July 2026)
-- GenAI Powered Data Analytics Job Simulation — Tata iQ, Forage (July 2026)
-- Technology Job Simulation — Deloitte Australia, Forage (July 2026)
-- Frontend Developer Certification — OneRoadmap (July 2026)
-- Skyscanner Front-End Software Engineering Job Simulation — Forage (September 2026)
-- EY Technology Risk Job Simulation — Forage (September 2026)
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
