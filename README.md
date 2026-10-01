@@ -250,7 +250,6 @@ June 2024 – August 2029
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=patelmai48&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 ---
 
 ## 🤝 Let's Connect
