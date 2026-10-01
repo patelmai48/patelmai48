@@ -245,8 +245,8 @@ June 2024 – August 2029
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=patelmai48&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Mahi's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=patelmai48&show_icons=true&commits_year=2026&theme=tokyonight&hide_border=true"
+    alt="Mahi's 2026 GitHub Stats"
   />
   <img
     height="165"
@@ -261,7 +261,13 @@ June 2024 – August 2029
     src="https://streak-stats.demolab.com?user=patelmai48&theme=tokyonight&hide_border=true"
     alt="Mahi's GitHub Streak"
   />
+  <img
+    height="195"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=patelmai48&theme=tokyo-night&hide_border=true"
+    alt="Mahi's GitHub Contribution Activity"
+  />
 </p>
+
 
 ## 🤝 Let's Connect
 
