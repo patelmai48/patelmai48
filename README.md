@@ -243,17 +243,31 @@ June 2024 – August 2029
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patelmai48&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahi's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmai48&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=patelmai48&show_icons=true&include_all_commits=false&theme=tokyonight&hide_border=true"
+    alt="Mahi's GitHub Stats"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmai48&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=patelmai48&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=patelmai48&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelmai48&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=patelmai48&theme=tokyo-night&hide_border=true"
+    alt="Mahi's GitHub Contribution Activity"
+  />
 </p>
+
 
 ## 🤝 Let's Connect
 
